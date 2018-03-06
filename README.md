@@ -1,4 +1,4 @@
-![Music Database ERD](https://raw.githubusercontent.com/iiimosley/sqlFoundations/master/musicDB_ERD.png "Music Database ERD")
+![Music Database ERD](https://raw.githubusercontent.com/iiimosley/NSS-sqlFoundations/master/musicDB_ERD.png "Music Database ERD")
 
 #### Practice with SQL Commands 
 
