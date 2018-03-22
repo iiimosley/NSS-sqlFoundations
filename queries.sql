@@ -35,7 +35,7 @@ VALUES ('Picture Book', 234,
 ---  or  ---
 
 Insert INTO Song
-SELECT "Queen of Darkness", 344, 1966, g.GenreId, ar.ArtistId, al.AlbumId
+SELECT null, "Queen of Darkness", 344, 1966, g.GenreId, ar.ArtistId, al.AlbumId
 FROM Artist ar, Genre g, Album al
 WHERE ar.ArtistName = "The Kinks"
 AND g.Label = "Rock"
